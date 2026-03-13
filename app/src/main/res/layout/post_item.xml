@@ -7,7 +7,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/txtTile"
+        android:id="@+id/txtTitle"
         android:padding="16dp"
         android:textSize="20sp"
         android:text="Item do RecyclerView"
